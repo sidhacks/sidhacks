@@ -25,17 +25,31 @@ HTML • CSS • JavaScript • React
 
 ## 📂 Projects
 
+🔹 Social Commerce Platform – E-commerce website with inbuilt video streaming, customer & seller dashboards, and payments page.  
+Built with React & Tailwind CSS (frontend) and Express.js with PostgreSQL (backend). 
+
 🔹 Portfolio Website – Personal portfolio with modern UI  
+
 🔹 Spotify Clone – Functional music player using JavaScript  
+
 🔹 Landing Page – Clean and high-converting design  
+
+ 
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced JavaScript  
-- UI/UX Design  
+- React.js  
+- Typescript  
 - Open Source Contributions  
+
+---
+
+## 🏆 Open Source
+
+🔹 GSSoC 2026 Participant  
+👉 https://gssoc.girlscript.org/profile/e62985d6-efaa-4901-ae44-ebb4997aca96
 
 ---
 
