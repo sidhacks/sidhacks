@@ -48,7 +48,7 @@ Built with React & Tailwind CSS (frontend) and Express.js with PostgreSQL (backe
 
 ## 🏆 Open Source
 
-🔹 GSSoC 2026 Participant  
+🔹 GSSoC 2026 Contributor 
 👉 https://gssoc.girlscript.org/profile/e62985d6-efaa-4901-ae44-ebb4997aca96
 
 ---
