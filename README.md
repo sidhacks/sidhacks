@@ -4,13 +4,22 @@ Frontend Developer focused on building clean, aesthetic, and user-friendly web e
 
 
 ## About Me
-I’m a passionate full-stack developer who thrives on **JavaScript-powered solutions**.  
-I love combining **beautiful UIs** with **efficient backends** to create web apps that make a difference.
+I enjoy creating modern websites that not only look good but also feel smooth to use.
 
-- Focus: **Frontend + Backend Development**  
-- Strongest Language: **JavaScript**  
-- Tech Playground: React, Node.js, Express, MongoDB, PostgreSQL
-- Currently learning: Advanced API design & deployment strategies  
+Currently:
+- Building real-world frontend projects  
+- Improving my UI/UX skills  
+- Contributing to **GSSoC 26**
+
+## 📂 Projects
+
+🔹 Social Commerce Platform – E-commerce website with inbuilt video streaming, customer & seller dashboards, and payments page.  
+Built with React & Tailwind CSS (frontend) and Express.js with PostgreSQL (backend). 
+
+🔹 Portfolio Website – Personal portfolio with modern UI  
+
+🔹 Spotify Clone – Functional music player using JavaScript  
+
 
 
 
